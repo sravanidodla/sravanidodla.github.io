@@ -85,7 +85,7 @@ There are 8 customizable sections:
 **Footer** - content-body `div` with an editable `p`
 ```
           <div class="content-body">
-            <p>Copyright YOUR NAME 2017</p>
+            <p>Copyright YOUR NAME 2020</p>
           </div>
 ```
 ---
@@ -95,7 +95,3 @@ There are 8 customizable sections:
 - [ ] Smooth Scrolling
 - [ ] Other effects?
 
-
----
-
-Inspired by this [template](https://github.com/RyanFitzgerald/devportfolio-template), I wanted to build a similiar template, but using Flexbox instead of bootstrap and jQuery.
