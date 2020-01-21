@@ -88,10 +88,4 @@ There are 8 customizable sections:
             <p>Copyright YOUR NAME 2020</p>
           </div>
 ```
----
-
-##### To do
-- [ ] Make responsive
-- [ ] Smooth Scrolling
-- [ ] Other effects?
 
